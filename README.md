@@ -2,8 +2,8 @@ README
 ===========================
 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
 ****
-### Author:果冻虾仁
-### E-mail:Jelly.K.Wang@qq.com
+### Author:Ｗル's
+### E-mail:jlwangtat@gmail.com
 ****
 ## 目录
 * [横线](#横线)
@@ -62,7 +62,7 @@ ___
 ### 普通文本
 这是一段普通的文本
 ### 单行文本
-    Hello,大家好，我是果冻虾仁。
+    Hello,大家好，我是Ｗル's。
 在一行开头加入1个Tab或者4个空格。
 ### 文本块
 #### 语法1
@@ -76,8 +76,8 @@ ___
 使用一对各三个的反引号：
 ```
 欢迎到访
-我是C++码农
-你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
+coding C++
+你可以这里找到我
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -165,9 +165,6 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
-|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
-|3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
 因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例3）。  
 注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
@@ -185,14 +182,14 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 ## 列表
 ### 无序列表
-* 昵称：果冻虾仁
-- 别名：隔壁老王
-* 英文名：Jelly
+* 昵称：w
+- 别名：j
+* 英文名：l
 
 ### 多级无序列表
 * 编程语言
     * 脚本语言
-        * Python
+        * rudy
 
 ### 有序列表
 #### 一般效果
@@ -323,10 +320,4 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
-[baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
-[weibo-logo]:/img/weibo.png "点击图片进入我的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+[foryou]:https://github.com/halukasama/ImageCache/raw/master/Logo/foryou.gif
